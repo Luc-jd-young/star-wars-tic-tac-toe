@@ -20,7 +20,7 @@ Please refer to [CHALLENGE.md](CHALLENGE.md) for the complete challenge requirem
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd star-wars-tictactoe
+cd star-wars-tic-tac-toe
 ```
 
 2. Install dependencies:
@@ -38,7 +38,7 @@ pnpm run dev
 ## Project Structure
 
 ```
-star-wars-tictactoe/
+star-wars-tic-tac-toe/
 ├── apps/
 │   └── star-wars-tictactoe/    # Main Qwik application
 ├── libs/

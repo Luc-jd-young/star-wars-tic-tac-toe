@@ -6,10 +6,6 @@ Welcome to the Star Wars TicTacToe Technical Challenge! This project contains a 
 
 The application contains **10 intentionally placed bugs** that need to be identified, documented, and fixed. These bugs test your understanding of the Qwik framework, its unique features, and common pitfalls in modern web development.
 
-## Time Limit
-
-You have **72 hours** to complete this challenge from the moment you receive it.
-
 ## Requirements
 
 ### Your Mission:
@@ -82,7 +78,7 @@ Once completed, please:
 1. Push your solution to a private Git repository
 2. Include the `BUG_REPORT.md` in the root directory
 3. Ensure all bugs are fixed and the application runs correctly
-4. Share repository access with **lufroes** (https://github.com/lufroes)
+4. Share repository access with **Intellix** (https://github.com/intellix) & **Luc** (https://github.com/Luc-jd-young)
 
 ## Good Luck!
 
